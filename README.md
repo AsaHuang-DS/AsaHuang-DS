@@ -30,24 +30,24 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyverse-75AADB?style=flat&logo=tidyverse&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![dplyr](https://img.shields.io/badge/dplyr-75AADB?style=flat&logo=r&logoColor=white)
 ---
 **Tools & Platforms**  
-![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-8B5CF6?style=flat&logo=amazonwebservices&logoColor=white)
-![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-8B5CF6?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
-![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logo=dataiku&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ---
 **Business Intelligence & Visualization**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ---
 **Professional Skills**  
 ![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-808080?style=flat&logoColor=white)

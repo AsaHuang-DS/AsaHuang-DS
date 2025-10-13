@@ -40,8 +40,8 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![Dataiku](https://img.shields.io/badge/Dataiku-05122A?style=flat&logo=dataiku)
 ![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/Anaconda-05122A?style=flat&logo=anaconda)
-![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=jira)
-![Confluence](https://img.shields.io/badge/Confluence-05122A?style=flat&logo=confluence)
+![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=jira&logoColor=0052CC)
+![Confluence](https://img.shields.io/badge/Confluence-05122A?style=flat&logo=confluence&logoColor=172B4D)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 ---
 ### Business Intelligence & Visualization:

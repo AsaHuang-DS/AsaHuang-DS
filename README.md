@@ -23,45 +23,48 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 
 ## Tech Stack
 
+## 🛠 Tech Stack
+
 **Programming Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-0A66C2?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-0A66C2?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0A66C2?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0A66C2?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0A66C2?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0A66C2?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0A66C2?style=flat&logo=plotly&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyverse-0A66C2?style=flat&logo=r&logoColor=white)
-![dplyr](https://img.shields.io/badge/dplyr-0A66C2?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=flat&logo=rstudio&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-1A162D?style=flat&logo=rstudio&logoColor=white)
 
 ---
 
 **Tools & Platforms**  
-![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-0A66C2?style=flat&logo=amazon-aws&logoColor=white)
-![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-0A66C2?style=flat&logo=amazon-aws&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-0A66C2?style=flat&logo=mysql&logoColor=white)
-![Dataiku](https://img.shields.io/badge/Dataiku-0A66C2?style=flat&logo=dataiku&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A66C2?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-0A66C2?style=flat&logo=confluence&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AsaHuang-DS)
-
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-00C7B7?style=flat&logo=dataiku&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 ---
 
 **Business Intelligence & Visualization**  
-![Power BI](https://img.shields.io/badge/Power%20BI-0A66C2?style=flat&logo=power-bi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-0A66C2?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-0A66C2?style=flat&logo=microsoft-excel&logoColor=white)
-![Dashboards & KPI Reporting](https://img.shields.io/badge/Dashboards%20&%20KPI%20Reporting-0A66C2?style=flat&logo=bar-chart&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Dashboards & KPI Reporting](https://img.shields.io/badge/Dashboards%20&%20KPI%20Reporting-1F77B4?style=flat&logo=bar-chart&logoColor=white)
 
 ---
 
 **Professional Skills**  
-![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-0A66C2?style=flat&logo=teamviewer&logoColor=white)
-![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-0A66C2?style=flat&logo=webauthn&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time%20Management-0A66C2?style=flat&logo=clockify&logoColor=white)
-![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-0A66C2?style=flat&logo=brain&logoColor=white)
-![Curiosity](https://img.shields.io/badge/Curiosity-0A66C2?style=flat&logo=flightradar24&logoColor=white)
+![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-0A66C2?style=flat&logoColor=white)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-0A66C2?style=flat&logoColor=white)
+![Time Management](https://img.shields.io/badge/Time%20Management-0A66C2?style=flat&logoColor=white)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-0A66C2?style=flat&logoColor=white)
+![Curiosity](https://img.shields.io/badge/Curiosity-0A66C2?style=flat&logoColor=white)
+
 
 
 ---

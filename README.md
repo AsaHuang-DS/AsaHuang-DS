@@ -23,7 +23,7 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 
 ## Tech Stack
 
-**Programming Languages & Frameworks**  
+### Programming Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
 ![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r)
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=mysql)
@@ -33,7 +33,7 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=flat&logo=plotly)
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-05122A?style=flat&logo=tidyverse)
 ---
-**Tools & Platforms**  
+### Tools & Platforms  
 ![AWS Sagemaker](https://custom-icon-badges.demolab.com/badge/AWS%20SageMaker-05122A?logo=aws)
 ![AWS Redshift](https://custom-icon-badges.demolab.com/badge/AWS%20Redshift-05122A?logo=aws)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-05122A?style=flat&logo=mysql)
@@ -44,12 +44,12 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![Confluence](https://img.shields.io/badge/Confluence-05122A?style=flat&logo=confluence)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 ---
-**Business Intelligence & Visualization**  
+### Business Intelligence & Visualization
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-05122A?logo=powerbi&logoSource=simpleicon)
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-05122A?logo=tableau&logoSource=simpleicon)
 ![Excel](https://custom-icon-badges.demolab.com/badge/Excel-05122A?logo=excel&logoSource=simpleicon)
 ---
-**Professional Skills**  
+### Professional Skills  
 ![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-05122A?style=flat)
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-05122A?style=flat)
 ![Time Management](https://img.shields.io/badge/Time%20Management-05122A?style=flat)

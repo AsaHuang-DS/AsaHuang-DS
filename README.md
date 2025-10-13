@@ -58,6 +58,15 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 
 ---
 
+## Upcoming Projects
+Projects currently in development:
+
+- **Exploratory Data Analysis (EDA)** — Deep-dive into real-world datasets to uncover trends, outliers, and insights using Python, Pandas, and data visualization libraries.  
+- **Funnel Analysis** — Analyzing user behavior and conversion metrics to identify key drop-off points and optimize engagement strategies.  
+- **Full-Stack Data Project** — Building an end-to-end data application integrating data pipelines, APIs, and dashboards to deliver actionable insights.
+
+---
+
 ## Connect with Me!
 
 - **LinkedIn:** [LinkedIn | Asa Huang](https://www.linkedin.com/in/asa-huang/)  

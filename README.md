@@ -35,8 +35,8 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![dplyr](https://img.shields.io/badge/dplyr-75AADB?style=flat&logo=r&logoColor=white)
 ---
 **Tools & Platforms**  
-![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-8B5CF6?style=flat&logo=amazon-aws&logoColor=white)
-![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-8B5CF6?style=flat&logo=aws-aws&logoColor=white)
+![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-FF9900?style=flat&logo=aws-aws&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logo=dataiku&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -64,9 +64,3 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 - **LinkedIn:** [LinkedIn | Asa Huang](https://www.linkedin.com/in/asa-huang/)  
 - **GitHub:** [GitHub | Asa Huang](https://github.com/AsaHuang-DS)  
 - **Email:** asa.huang.ds@gmail.com
-
-
-
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white)
-![My Skills](https://skillicons.dev/icons?i=py,r,aws,github)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)

@@ -39,10 +39,11 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![AWS Redshift](https://custom-icon-badges.demolab.com/badge/AWS%20Redshift-FF9900?logo=aws&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logo=dataiku&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ---
 **Business Intelligence & Visualization**  
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-DAA520?logo=powerbi&logoColor=white&logoSource=simpleicon)

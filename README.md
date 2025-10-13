@@ -45,7 +45,7 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ---
 **Business Intelligence & Visualization**  
-![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white&logoSource=simpleicon)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-DAA520?logo=powerbi&logoColor=white&logoSource=simpleicon)
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-E97627?logo=tableau&logoColor=white&logoSource=simpleicon)
 ![Excel](https://custom-icon-badges.demolab.com/badge/Excel-217346?logo=excel&logoColor=white&logoSource=simpleicon)
 ---

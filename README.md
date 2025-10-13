@@ -68,3 +68,5 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 
 
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=py,r,aws,github)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)

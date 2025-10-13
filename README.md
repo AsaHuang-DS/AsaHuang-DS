@@ -35,8 +35,8 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![dplyr](https://img.shields.io/badge/dplyr-75AADB?style=flat&logo=r&logoColor=white)
 ---
 **Tools & Platforms**  
-![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-8B5CF6?style=flat&logo=aws-aws&logoColor=white)
-![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-FF9900?style=flat&logo=aws-aws&logoColor=white)
+![AWS Sagemaker](https://custom-icon-badges.demolab.com/badge/AWS-8B5CF6?logo=aws&logoColor=white)
+![AWS Redshift](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logo=dataiku&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)

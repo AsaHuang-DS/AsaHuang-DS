@@ -23,25 +23,44 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 
 ## Tech Stack
 
-### Programming & Data Science
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
-![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apache-spark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
+**Programming Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
+![Tidyverse](https://img.shields.io/badge/-Tidyverse-1A162D?style=flat&logo=r&logoColor=white)
+![dplyr](https://img.shields.io/badge/-dplyr-276DC3?style=flat&logo=r&logoColor=white)
 
-### Data Visualization & BI
-![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=power-bi)
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat-square&logo=microsoft-excel&logoColor=white)
+---
 
-### Cloud & Tools
+**Tools & Platforms:**  
+![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Redshift](https://img.shields.io/badge/-AWS%20Redshift-8C4FFF?style=flat&logo=amazon-aws&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+![Dataiku](https://img.shields.io/badge/-Dataiku-2FA6DE?style=flat&logo=dataiku&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+---
+
+**Business Intelligence & Visualization:**  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+
+**Professional Skills:**  
+Cross-Functional Collaboration • Stakeholder Communication • Time Management • Critical Thinking • Curiosity
 
 ---
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Asa Huang](https://www.linkedin.com/in/asa-huang/)  
-- **GitHub:** [github.com/yourusername](https://github.com/AsaHuang-DS)  
+- **LinkedIn:** [LinkedIn | Asa Huang](https://www.linkedin.com/in/asa-huang/)  
+- **GitHub:** [GitHub | Asa Huang](https://github.com/AsaHuang-DS)  
 - **Email:** asa.huang.ds@gmail.com

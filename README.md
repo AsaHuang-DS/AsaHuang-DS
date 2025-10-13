@@ -32,7 +32,6 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-05122A?style=flat&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=flat&logo=plotly)
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-05122A?style=flat&logo=tidyverse)
-![dplyr](https://img.shields.io/badge/dplyr-05122A?style=flat&logo=r)
 ---
 **Tools & Platforms**  
 ![AWS Sagemaker](https://custom-icon-badges.demolab.com/badge/AWS%20SageMaker-05122A?logo=aws)

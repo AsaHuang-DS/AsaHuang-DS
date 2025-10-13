@@ -64,3 +64,7 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 - **LinkedIn:** [LinkedIn | Asa Huang](https://www.linkedin.com/in/asa-huang/)  
 - **GitHub:** [GitHub | Asa Huang](https://github.com/AsaHuang-DS)  
 - **Email:** asa.huang.ds@gmail.com
+
+
+
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white)

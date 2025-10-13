@@ -23,8 +23,6 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 
 ## Tech Stack
 
-## 🛠 Tech Stack
-
 **Programming Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -33,8 +31,8 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=flat&logo=rstudio&logoColor=white)
-![dplyr](https://img.shields.io/badge/dplyr-1A162D?style=flat&logo=rstudio&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-75AADB?style=flat&logo=rstudio&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-75AADB?style=flat&logo=rstudio&logoColor=white)
 
 ---
 
@@ -51,19 +49,19 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ---
 
 **Business Intelligence & Visualization**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Dashboards & KPI Reporting](https://img.shields.io/badge/Dashboards%20&%20KPI%20Reporting-1F77B4?style=flat&logo=bar-chart&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
 **Professional Skills**  
-![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-0A66C2?style=flat&logoColor=white)
-![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-0A66C2?style=flat&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time%20Management-0A66C2?style=flat&logoColor=white)
-![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-0A66C2?style=flat&logoColor=white)
-![Curiosity](https://img.shields.io/badge/Curiosity-0A66C2?style=flat&logoColor=white)
+![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-808080?style=flat&logoColor=white)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-808080?style=flat&logoColor=white)
+![Time Management](https://img.shields.io/badge/Time%20Management-808080?style=flat&logoColor=white)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-808080?style=flat&logoColor=white)
+![Curiosity](https://img.shields.io/badge/Curiosity-808080?style=flat&logoColor=white)
+![Dashboards & KPI Reporting](https://img.shields.io/badge/Dashboards%20&%20KPI%20Reporting-808080?style=flat&logoColor=white)
 
 
 

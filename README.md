@@ -31,7 +31,6 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ![NumPy](https://img.shields.io/badge/NumPy-05122A?style=flat&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-05122A?style=flat&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=flat&logo=plotly)
-![Seaborn](https://img.shields.io/badge/Seaborn-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0i...etc...&logoColor=4C9A93)
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-05122A?style=flat&logo=tidyverse)
 ---
 ### Tools & Platforms:  

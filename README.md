@@ -58,7 +58,7 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 
 ---
 
-## Upcoming Projects
+## Upcoming Projects:
 Projects currently in development:
 
 - **Exploratory Data Analysis (EDA)** — Deep-dive into real-world datasets to uncover trends, outliers, and insights using Python, Pandas, and data visualization libraries.  

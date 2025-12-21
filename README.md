@@ -36,7 +36,7 @@ I enjoy learning new technologies and building solutions that are **impactful, e
 ### Tools & Platforms:  
 ![AWS Sagemaker](https://custom-icon-badges.demolab.com/badge/AWS%20SageMaker-05122A?logo=aws)
 ![AWS Redshift](https://custom-icon-badges.demolab.com/badge/AWS%20Redshift-05122A?logo=aws)
-![MySQL](https://img.shields.io/badge/MySQL%20Workbench-05122A?style=flat&logo=mysql)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-05122A?style=flat&logo=mysql)
 ![Dataiku](https://img.shields.io/badge/Dataiku-05122A?style=flat&logo=dataiku)
 ![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/Anaconda-05122A?style=flat&logo=anaconda)
